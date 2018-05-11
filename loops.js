@@ -10,7 +10,7 @@ return array
 }
 
 function whileLoop(n){
-  
+  while 
   
   
 }
